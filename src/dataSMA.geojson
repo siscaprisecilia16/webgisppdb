@@ -17,7 +17,8 @@
         "akred": "A",
         "kuota": "87",
         "passing": "79,077 - 881,009 meter",
-        "pendaftar": "339"
+        "pendaftar": "339",
+        "jangkauan": "Bandung Wetan, Coblong, Sumur Bandung"
       },
       "geometry": {
         "type": "Point",
@@ -40,7 +41,8 @@
         "akred": "A",
         "kuota": "160",
         "passing": "107,211 - 518,489 meter",
-        "pendaftar": "408"
+        "pendaftar": "408",
+        "jangkauan": "Cidadap, Coblong, Sukajadi"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +65,8 @@
         "akred": "A",
         "kuota": "170",
         "passing": "112,271 - 419,139 meter",
-        "pendaftar": "304"
+        "pendaftar": "304",
+        "jangkauan": "Bandung Wetan, Sumur Bandung"
       },
       "geometry": {
         "type": "Point",
@@ -86,7 +89,8 @@
         "akred": "A",
         "kuota": "117",
         "passing": "98,532 - 611,503 meter",
-        "pendaftar": "381"
+        "pendaftar": "381",
+        "jangkauan": "Andir, Astana Anyar, Bojongloa Kaler, Regol"
       },
       "geometry": {
         "type": "Point",
@@ -109,7 +113,8 @@
         "akred": "A",
         "kuota": "170",
         "passing": "118,038 - 643,072 meter",
-        "pendaftar": "268"
+        "pendaftar": "268",
+        "jangkauan": "Bandung Wetan, Sumur Bandung"
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +137,8 @@
         "akred": "A",
         "kuota": "150",
         "passing": "107,235 - 950,85 meter",
-        "pendaftar": "222"
+        "pendaftar": "222",
+        "jangkauan": "Andir, Cicendo"
       },
       "geometry": {
         "type": "Point",
@@ -155,7 +161,8 @@
         "akred": "A",
         "kuota": "158",
         "passing": "97,04 - 871,636 meter",
-        "pendaftar": "236"
+        "pendaftar": "236",
+        "jangkauan": "Regol"
       },
       "geometry": {
         "type": "Point",
@@ -178,7 +185,8 @@
         "akred": "A",
         "kuota": "165",
         "passing": "44,394 - 499,239 meter",
-        "pendaftar": "361"
+        "pendaftar": "361",
+        "jangkauan": "Batununggal, Regol"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +209,8 @@
         "akred": "A",
         "kuota": "117",
         "passing": "79,388 - 460,63 meter",
-        "pendaftar": "329"
+        "pendaftar": "329",
+        "jangkauan": "Cicendo, Sukajadi"
       },
       "geometry": {
         "type": "Point",
@@ -224,7 +233,8 @@
         "akred": "A",
         "kuota": "190",
         "passing": "39,034 - 406,864 meter",
-        "pendaftar": "518"
+        "pendaftar": "518",
+        "jangkauan": "Cibeunying Kaler, Cibeunying Kidul, Kiaracondong, Lengkong"
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +257,8 @@
         "akred": "A",
         "kuota": "158",
         "passing": "66,407 - 680,054 meter",
-        "pendaftar": "389"
+        "pendaftar": "389",
+        "jangkauan": "Astana Anyar, Regol"
       },
       "geometry": {
         "type": "Point",
@@ -270,7 +281,8 @@
         "akred": "A",
         "kuota": "152",
         "passing": "61,391 - 826,862 meter",
-        "pendaftar": "396"
+        "pendaftar": "396",
+        "jangkauan": "Batununggal, Buah Batu, Kiaracondong, Lengkong"
       },
       "geometry": {
         "type": "Point",
@@ -293,7 +305,8 @@
         "akred": "A",
         "kuota": "175",
         "passing": "147,874 - 657,889 meter",
-        "pendaftar": "410"
+        "pendaftar": "410",
+        "jangkauan": "Andir, Cicendo"
       },
       "geometry": {
         "type": "Point",
@@ -316,7 +329,8 @@
         "akred": "A",
         "kuota": "102",
         "passing": "35,497 - 312,632 meter",
-        "pendaftar": "281"
+        "pendaftar": "281",
+        "jangkauan": "Bandung Wetan, Cibeunying Kaler, Cibeunying Kidul, "
       },
       "geometry": {
         "type": "Point",
@@ -339,7 +353,8 @@
         "akred": "A",
         "kuota": "182",
         "passing": "50,753 - 624,184 meter",
-        "pendaftar": "462"
+        "pendaftar": "462",
+        "jangkauan": "Sukajadi, Sukasari"
       },
       "geometry": {
         "type": "Point",
@@ -362,7 +377,8 @@
         "akred": "A",
         "kuota": "165",
         "passing": "55 - 567,645 meter",
-        "pendaftar": "324"
+        "pendaftar": "324",
+        "jangkauan": "Antapani, Kiaracondong, Lengkong"
       },
       "geometry": {
         "type": "Point",
@@ -385,7 +401,8 @@
         "akred": "A",
         "kuota": "164",
         "passing": "92,421 - 732,405 meter",
-        "pendaftar": "367"
+        "pendaftar": "367",
+        "jangkauan": "Babakan Ciparay, Bandung Kulon"
       },
       "geometry": {
         "type": "Point",
@@ -408,7 +425,8 @@
         "akred": "A",
         "kuota": "168",
         "passing": "48,932 - 467,144 meter",
-        "pendaftar": "493"
+        "pendaftar": "493",
+        "jangkauan": "Babakan Ciparay, Bojongloa Kaler"
       },
       "geometry": {
         "type": "Point",
@@ -431,7 +449,8 @@
         "akred": "A",
         "kuota": "153",
         "passing": "31,518 - 719,321 meter",
-        "pendaftar": "342"
+        "pendaftar": "342",
+        "jangkauan": "Cibeunyin Kaler, Cidadap, Coblong"
       },
       "geometry": {
         "type": "Point",
@@ -454,7 +473,8 @@
         "akred": "A",
         "kuota": "142",
         "passing": "134,047 - 803,835 meter",
-        "pendaftar": "249"
+        "pendaftar": "249",
+        "jangkauan": "Cibeunying Kaler, Cibeunying Kidul, Sumur Bandung"
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +497,8 @@
         "akred": "A",
         "kuota": "153",
         "passing": "148,937 - 970,743 meter",
-        "pendaftar": "277"
+        "pendaftar": "277",
+        "jangkauan": "Buah Batu, Rancasari"
       },
       "geometry": {
         "type": "Point",
@@ -500,7 +521,8 @@
         "akred": "A",
         "kuota": "184",
         "passing": "28,694 - 957,948 meter",
-        "pendaftar": "255"
+        "pendaftar": "255",
+        "jangkauan": "Bandung Kidul, Batununggal"
       },
       "geometry": {
         "type": "Point",
@@ -523,7 +545,8 @@
         "akred": "A",
         "kuota": "143",
         "passing": "39,952 - 475,298 meter",
-        "pendaftar": "407"
+        "pendaftar": "407",
+        "jangkauan": "Antapani, Arcamanik"
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +569,8 @@
         "akred": "A",
         "kuota": "138",
         "passing": "39,382 - 472,685 meter",
-        "pendaftar": "518"
+        "pendaftar": "518",
+        "jangkauan": "Arcamanik, Cinambo, Mandalajati, Panyileukan, Ujungberung"
       },
       "geometry": {
         "type": "Point",
@@ -569,7 +593,8 @@
         "akred": "A",
         "kuota": "204",
         "passing": "100,685 - 1377,894 meter",
-        "pendaftar": "250"
+        "pendaftar": "250",
+        "jangkauan": "Buah Batu"
       },
       "geometry": {
         "type": "Point",
@@ -592,7 +617,8 @@
         "akred": "A",
         "kuota": "153",
         "passing": "72,04 - 710,849 meter",
-        "pendaftar": "427"
+        "pendaftar": "427",
+        "jangkauan": "Cibiru"
       },
       "geometry": {
         "type": "Point",
@@ -615,7 +641,8 @@
         "akred": "A",
         "kuota": "181",
         "passing": "127,829 - 1363,244 meter",
-        "pendaftar": "299"
+        "pendaftar": "299",
+        "jangkauan": "Gedebage"
       },
       "geometry": {
         "type": "Point",

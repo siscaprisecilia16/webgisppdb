@@ -299,6 +299,10 @@ const Map = () => {
                   <p>Jumlah Pendaftar</p>
                   <h3>{dataPopup?.features?.[0]?.properties?.pendaftar}</h3>
                 </div>
+                <div className="popup_paragraf">
+                  <p>Kecamatan Terjangkau</p>
+                  <h3>{dataPopup?.features?.[0]?.properties?.jangkauan}</h3>
+                </div>
               </div>
               {showInfo === "isochrone" ? (
                 <div className="isochrone_info">
